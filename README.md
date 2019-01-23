@@ -1,4 +1,4 @@
-# _Factorial_
+# _Leap year detector_
 
 #### _Count Up By 01/16/2019_
 
@@ -6,7 +6,12 @@
 
 ## Description
 
-_This is a website to compute factorials._
+_This is a website which allow to identify leap year._
+_if a year is a leap year:_
+
+* _The year is evenly divisible by 4;_
+* _If the year can be evenly divided by 100, it is NOT a leap year, unless;_
+* _The year is also evenly divisible by 400. Then it is a leap year._
 
 ## Support and contact details
 
